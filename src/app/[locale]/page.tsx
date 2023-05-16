@@ -18,14 +18,16 @@ export default async function Home() {
     >
       <strong style={{ color: "orange" }}>{t("import1")}</strong>
       <div className={styles.card}>
-        <Link href="/same">{`TO ITEMS ->`}</Link>
+        <Link href="/same">{`TO PAGE`}</Link>
+        <span>{`->`}</span>
       </div>
       <br />
       <br />
       <br />
       <strong style={{ color: "purple" }}>{t("import2")}</strong>
       <div className={styles.card}>
-        <Link href="/different">{`TO ITEMS ->`}</Link>
+        <Link href="/different">{`TO PAGE`}</Link>
+        <span>{`->`}</span>
       </div>
     </main>
   );
