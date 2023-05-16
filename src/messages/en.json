@@ -1,5 +1,6 @@
 {
   "Page": {
-    "home": "I'm in Home"
+    "import1": "Importing from the same css module",
+    "import2": "Importing from differents css modules"
   }
 }

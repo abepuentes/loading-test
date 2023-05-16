@@ -1,5 +1,6 @@
 {
   "Page": {
-    "home": "Estoy en Principal"
+    "import1": "Importando el mismo modulo css",
+    "import2": "Importando modulos css distintos"
   }
 }
